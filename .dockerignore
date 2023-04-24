@@ -1,0 +1,8 @@
+# flyctl launch added from .gitignore
+**/.env
+
+# flyctl launch added from supabase/.gitignore
+# Supabase
+supabase/**/.branches
+supabase/**/.temp
+fly.toml
